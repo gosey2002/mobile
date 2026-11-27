@@ -6,7 +6,7 @@
 - 호스팅: GitHub Pages (`gosey2002/mobile`) — **게시 브랜치는 `gh-pages`**, 저장소 원본은 `main`
 - DNS: 호스팅케이알 `mobile` CNAME → `gosey2002.github.io`
 - 상담 접수: FormSubmit → realoio@naver.com (`?submitted=1` 완료 화면)
-- 디자인: `4usquare.co.kr`, `fund.4usquare.co.kr`와 동일 토큰(네이비·스틸블루·세이지, Pretendard)
+- 디자인: 밝은 쇼핑몰·상담 허브 톤 — 화이트 + `#F4F8FF`/`#EEF4FF` 섹션 교차, 코발트 `#2563EB`·스카이 `#0EA5E9` 포인트, 민트 `#10B981` 보조, 카카오 옐로 `#FEE500`, Pretendard (2026-11-27 리스타일)
 
 ## 수정할 때
 
